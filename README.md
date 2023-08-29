@@ -5,7 +5,6 @@ My Notes App is a simple web application that allows you to store and manage you
 ## Features
 
 - Create and save notes with a title and content.
-- View and edit existing notes.
 - Delete notes you no longer need.
 - User-friendly interface for easy navigation and note management.
 - Responsive design for optimal usage on various devices.
